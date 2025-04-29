@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  },
+  "name": "lotc-insults",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cosmiverse/lotc-insults.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cosmiverse/lotc-insults/issues"
+  },
+  "homepage": "https://github.com/Cosmiverse/lotc-insults#readme"
+}
